@@ -1,3 +1,5 @@
 # PROJETO DESENVOLVIMENTO WEB - Dissonance
 
-O site será desenvolvido com HTML, CSS e JavaScript, proporcionando uma experiência interativa e agradável aos usuários. A plataforma terá uma interface intuitiva que permitirá aos visitantes: Publicar Críticas e Comentários, Acessar Notícias e Interagir com Outros Usuários.
+O site inspirado no Pitchfork busca oferecer uma experiência similar à do site original, com foco em críticas musicais, notícias e conteúdo cultural relevante. Desenvolvido com HTML, CSS e JavaScript, ele combina a estrutura semântica do HTML para garantir uma navegação intuitiva e acessível, enquanto o CSS é usado para criar um design moderno e responsivo, adaptando-se bem a diferentes dispositivos. O JavaScript é utilizado para implementar eventos de clique, impressão de conteúdo no HTML e no console, e para adicionar interatividade aos botões de navegação entre as páginas
+
+Site Modelo: https://pitchfork.com
